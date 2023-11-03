@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ByCodersExchange</string>
+    <string name="exchange_name">Name: %s</string>
+    <string name="exchange_id">Id: %s</string>
+    <string name="exchange_value_one_day">Volume one day USD:\n%s</string>
+    <string name="exchange_data_order_Book_end">Data order book end:\n%s</string>
+    <string name="exchange_data_order_Book_start">Data order book start:\n%s</string>
+    <string name="exchange_data_quote_end">Data quote end:\n%s</string>
+    <string name="exchange_data_quote_start">Data quote start:\n%s</string>
+    <string name="exchange_data_symbols_count">Data symbols count:\n%s</string>
+    <string name="exchange_metric_id">Metric id:\n%s</string>
+    <string name="exchange_data_trade_end">Data trade end:\n%s</string>
+    <string name="exchange_data_trade_start">data quote start:\n%s</string>
+    <string name="exchange_volume_one_mth_usd">Volume one mth USD:\n%s</string>
+    <string name="exchange_volume_one_hrs_usd">Volume one hrs USD:\n%s</string>
+    <string name="exchange_website">Website: %s</string>
+    <string name="exchange_buttoninfo_content_description">buttoninfo</string>
+    <string name="exchange_backicon_conent_description">backIcon</string>
+    <string name="exchange">Exchange</string>
+    <string name="error_description">Ops... algo de errado não está certo</string>
+    <string name="try_again">Tentar Novamente</string>
+</resources>
