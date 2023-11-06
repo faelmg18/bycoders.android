@@ -23,6 +23,10 @@ Coloque a chave da API gerada no site do **[coinapi.io](https://www.coinapi.io/)
 
     buildConfigField("String", "API_KEY", "\"sua chave aqui\"")
 
+
+> obs: A versão atual do Gradle 8 exige o JDK 17 como consta na [documentação](https://developer.android.com/build/releases/gradle-plugin?hl=pt-br)
+
+
 ## Versão do Android Studio Usada
 
 > Android Studio Giraffe | 2022.3.1 Patch 2
